@@ -12,9 +12,11 @@ A small macOS utility that locks the keyboard and trackpad so you can wipe them 
 
 - Blocks keys, clicks, scrolling, trackpad gestures and media keys
 - Fullscreen cover on every connected display
-- Unlock with Cmd + Shift + U
+- Unlock with Cmd + Shift + U, with keycaps that light up as you hold them
+- A ripple on screen each time a key press, click or swipe is caught
 - Auto unlocks after 10 minutes, or any number of minutes you pass in
-- Live count of blocked inputs and time left
+- Countdown and progress bar showing time left, plus a count of blocked inputs
+- Kanagawa Dragon colours, and every animation respects Reduce Motion
 
 ## Project Structure
 
