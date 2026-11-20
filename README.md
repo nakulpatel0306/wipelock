@@ -1,4 +1,4 @@
-# WipeLock - A Mac Cleaning Lock
+# WipeLock - Lock Your Mac's Keyboard And Trackpad While You Clean
 
 A small macOS utility that locks the keyboard and trackpad so you can wipe them down. A fullscreen cover goes up on every display, every key press, click and gesture is swallowed, and one shortcut brings it all back.
 
@@ -39,7 +39,7 @@ Needs the Xcode Command Line Tools (`xcode-select --install`).
    swiftc WipeLock.swift -o WipeLock
    ./WipeLock
    ```
-   Pass a number to change the auto unlock time, e.g. `./WipeLock 5` for 5 minutes.
+   Pass a number to change the auto unlock time, e.g. `./WipeLock 5` for 5 minutes, or `./WipeLock --help` for usage.
 
 On the first run macOS asks for Accessibility access. Turn on your terminal app in System Settings > Privacy & Security > Accessibility, then run it again.
 
