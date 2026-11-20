@@ -48,3 +48,7 @@ On the first run macOS asks for Accessibility access. Turn on your terminal app 
 - Run it, wait for the cover to appear, then clean
 - Press Cmd + Shift + U to unlock
 - If you forget the shortcut, it unlocks itself when the timer runs out
+
+## License
+
+MIT, see [LICENSE](LICENSE).
